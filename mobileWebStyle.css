@@ -1,8 +1,8 @@
 /* --Mobile/Web RESPONSIVE-- */
 
 @media screen and (max-width: 1200px) {
-  body {
-    overflow-x: hidden;
+  .max {
+    max-width: fit-content;
   }
 
   main section.ourApps div.smallerTitle {
@@ -10,11 +10,12 @@
   }
 
   main section.ourApps .appContainer {
+    width: 499px;
     flex-direction: column;
   }
 
   main section.ourApps div.appTexto {
-    width: 60%;
+    width: 90% !important;
     padding-bottom: 20px;
     border-bottom: 2.2px solid black;
   }
