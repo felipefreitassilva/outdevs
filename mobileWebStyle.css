@@ -1,6 +1,10 @@
 /* --Mobile/Web RESPONSIVE-- */
 
 @media screen and (max-width: 1200px) {
+  body {
+    overflow-x: hidden;
+  }
+
   .max {
     max-width: fit-content;
   }
