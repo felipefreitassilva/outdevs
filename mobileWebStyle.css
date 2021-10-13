@@ -5,7 +5,7 @@
     overflow-x: hidden;
   }
 
-  main section.ourApps div.smallerTitle h2 {
+  main section.ourApps div.smallerTitle {
     display: none;
   }
 
