@@ -16,65 +16,6 @@ main section.partnerships h2 {
 }
 
 @media screen and (max-width: 966px) {
-  .openAnimation {
-    animation: slideMenuOpen 0.5s;
-  }
-
-  header nav #button {
-    top: 0;
-    right: 0;
-    width: 220px;
-    display: flex;
-    font-size: 96px;
-    position: absolute;
-    padding-right: 20px;
-    align-items: center;
-    justify-content: flex-end;
-  }
-
-  header nav #button:hover {
-    cursor: pointer;
-  }
-
-  header nav .desktopMenu {
-    display: none;
-  }
-
-  header nav .mobileMenu {
-    right: 0;
-    top: 110px;
-    width: 220px;
-    height: 100vh;
-    position: absolute;
-    list-style-type: none;
-    flex-direction: column;
-    background-color: white;
-  }
-
-  header nav ul li {
-    width: 100%;
-    height: 100px;
-    display: flex;
-    margin-bottom: 2px;
-    align-items: center;
-    justify-content: center;
-  }
-
-  header nav ul li a {
-    padding: 40px;
-    color: black;
-    font-size: 17px;
-    font-weight: bolder;
-    letter-spacing: 2.7px;
-    text-decoration: none;
-    text-transform: uppercase;
-    border-bottom: 1px solid black;
-  }
-
-  main section.title .titleText {
-    font-size: 34px;
-  }
-
   main section.main div.size div.max div.wrapper {
     display: block;
   }

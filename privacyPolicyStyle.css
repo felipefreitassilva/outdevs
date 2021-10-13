@@ -1,11 +1,9 @@
 main {
   padding: 4% 4% 0 4%;
   justify-content: center;
-  height: calc(100vh - 93px);
 }
 
-main h2,
-h3 {
+main h2, h3 {
   padding: 10px 0;
 }
 
