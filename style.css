@@ -226,7 +226,7 @@ main section.ourApps div.appTexto div.txtApp h3 {
   text-transform: uppercase;
 }
 
-main section.ourApps div.appTexto div.txtApp p {
+main section.ourApps div.appTexto div.txtApp p, a {
   padding: 20px 0;
   font-size: 22px;
   word-spacing: 24px;
