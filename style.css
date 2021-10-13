@@ -254,7 +254,7 @@ main section.ourApps div.appTexto div.imgApp img {
   }
 
   header nav #button {
-    top: 0;
+    top: -10px;
     right: 0;
     width: 220px;
     display: flex;
