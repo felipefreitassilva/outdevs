@@ -235,7 +235,7 @@ main section.ourApps div.appTexto div.txtApp p, a {
 }
 
 main section.ourApps div.appTexto div.txtApp a:hover {
-  color: rgb(94, 94, 94);
+  color: rgb(4, 4, 4);
   text-decoration: underline;
 }
 
