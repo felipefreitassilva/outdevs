@@ -234,6 +234,11 @@ main section.ourApps div.appTexto div.txtApp p, a {
   color: rgb(49, 49, 49);
 }
 
+main section.ourApps div.appTexto div.txtApp a:hover {
+  color: rgb(94, 94, 94);
+  text-decoration: underline;
+}
+
 main section.ourApps div.appTexto div.imgApp {
   height: 40px;
   margin-top: -10px;
