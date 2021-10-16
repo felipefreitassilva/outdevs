@@ -131,7 +131,7 @@ main section.title {
   flex-direction: column;
   justify-content: center;
   background-position: center;
-  background-image: url("img/notebook_using_up_gray.jpg");
+  background-image: url("../img/notebook_using_up_gray.jpg");
 }
 
 main section.title .titleImg img {
